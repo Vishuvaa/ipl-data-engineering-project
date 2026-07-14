@@ -1,0 +1,22 @@
+# Data folders
+raw data/
+silver/
+gold/
+output/
+logs/
+
+# DuckDB
+*.duckdb
+
+# Parquet
+*.parquet
+
+# AWS
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
